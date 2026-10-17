@@ -1,0 +1,13 @@
+{
+  "appId": "com.monkemayhem.rush",
+  "appName": "Monke Mayhem",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "allowMixedContent": true,
+    "captureInput": true,
+    "webContentsDebuggingEnabled": false
+  }
+}

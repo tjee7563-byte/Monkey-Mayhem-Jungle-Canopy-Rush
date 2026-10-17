@@ -1,0 +1,27 @@
+{
+  "id": "/",
+  "name": "Monke Mayhem: Jungle Canopy Rush",
+  "short_name": "MonkeMayhem",
+  "description": "Swing on dynamic vines, bounce off jungle mushrooms, toss coconuts at pesky critters, and unleash Golden Monke Fever!",
+  "start_url": "/",
+  "scope": "/",
+  "display": "fullscreen",
+  "orientation": "any",
+  "theme_color": "#0f281e",
+  "background_color": "#0f281e",
+  "categories": ["games", "arcade", "entertainment"],
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
